@@ -19,4 +19,3 @@ A cross-platform mobile Notes application built with Flutter and Firebase. Users
 **Notes:**  
 - Firebase API keys are removed for security.  
 - This repo is meant for code review and demonstration purposes.
->>>>>>> f4723bd09c28b8ffc3a64a1d7e7a72c489817782
